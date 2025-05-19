@@ -11,7 +11,7 @@ const Main = () => {
     <div className='main' >
       <div className="nav">
         <p>Gemini Clone by Joshua</p>
-        <img src={assets.user_icon} alt="" />
+        <img src={assets.profile_img} alt="" />
       </div>
       <div className="main-container">
 
